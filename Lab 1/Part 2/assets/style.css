@@ -32,7 +32,7 @@ h1 {
   font-size: 4rem;
   text-align: center;
   text-shadow: 2px 2px 10px black;
-  color: #fff; /* Changed color to white  */
+  color: #000000; /* pure black colour  */
 }
 
 h2 {
@@ -55,7 +55,7 @@ header {
   margin-bottom: 10px;
   display: flex;
   flex-flow: row wrap;
-  background-color: #2E8B57; /* Darke green for header */
+  background-color: #2E8B57; /* Dark green for header */
 }
 
 h1 {
